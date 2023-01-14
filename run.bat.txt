@@ -1,0 +1,2 @@
+cd C:\Users\USER\eclipse-workspace\RestAssured_APITesting_BDD
+mvn clean install
